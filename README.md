@@ -1,4 +1,19 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+</div>
 
+***
+
+<div align="center"> 
+  <img src="https://img.shields.io/badge/WhatsApp-MultiDevice-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Multi-Device"/>    
+  <img src="https://img.shields.io/badge/Powered%20By-Node.js-339933?style=for-the-badge&logo=nodedotjs" alt="Node.js"/>    
+  <img src="https://img.shields.io/badge/Baileys-Latest-blueviolet?style=for-the-badge" alt="Baileys"/>  
+</div>
+
+---
+# Munu-aass
+A simple WhatsApp bot to manage groups
+https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg
 <div align="center" style="background-color:#101010; border:2px solid #888888; border-radius:10px; padding:15px; box-shadow:0 0 5px #666666;">
 
 <p style="color:#ffffff; font-size:14px;">
