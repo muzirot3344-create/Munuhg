@@ -1,4 +1,36 @@
+ your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
+<div align="center">
+
+### 🔥 TRY JAWAD MD MINI
+<!-- Cyber Red -->
+<p align="center">
+  <a href="https://jawadtech.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_START_JAWAD_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="JAWAD MD Mini Cyber Red"/>
+  </a>
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Heroku (with rocket logo on left) -->
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadExtra/KHAN-MD" target="_blank">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a></td>
+      <!-- Replit -->
+      <td><a href="https://replit.com/github/JawadExtra/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <!-- Koyeb -->
+      <td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/JawadExtra/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <!-- Railway -->
+      <td><a href="https://railway.app/new/template?template=https://github.com/JawadExtra/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <!-- Render (blue color theme) -->
+      <td><a href="https://render.com/deploy?repo=https://github.com/JawadExtra/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>
+      <!-- Netlify -->
+      <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/JawadExtra/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface
 ---
 
 ## KHAN-MD FEATURES
