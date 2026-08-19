@@ -1,4 +1,20 @@
-h2 align="center" style="color:#ff00ff; font-family:monospace; font-size:26px;">
+<div style="
+  margin-top: -60px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 1000;  /* Nuclear bold - no skimping */
+  letter-spacing: 3px;  /* Extra spacing for bold punch */
+  background: linear-gradient(90deg, #6a0dad, #ab47bc, #d896ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow:
+    0 0 12px #6a0dad,
+    0 0 24px #ab47bc,
+    0 0 36px #d896ff,
+    0 0 48px #ab47bc;
+  padding: 12px 0;
+"> Built on Baileys • Designed for Speed • Enhanced for h2 align="center" style="color:#ff00ff; font-family:monospace; font-size:26px;">
 🧠 DEVELOPER NOTICE
 </h2>
 
